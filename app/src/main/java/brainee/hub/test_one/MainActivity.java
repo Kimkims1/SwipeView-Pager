@@ -26,6 +26,8 @@ public class MainActivity extends AppCompatActivity {
 
         actionBar = getSupportActionBar();
 
+        viewPager = findViewById(R.id.pager);
+
         loadCards();
 
         //change pageListener
