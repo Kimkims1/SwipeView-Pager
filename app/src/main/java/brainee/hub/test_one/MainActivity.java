@@ -13,7 +13,7 @@ public class MainActivity extends AppCompatActivity {
     //actionbar
     private ActionBar actionBar;
 
-    //UI Views
+    //ui Views
     private ViewPager viewPager;
 
     private ArrayList <MyModel> modelArrayList;
